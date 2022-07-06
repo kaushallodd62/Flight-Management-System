@@ -1,6 +1,5 @@
 //Flight Managment System
 //Author: Kaushal Lodd
-//Roll Number: BT19CSE052
 
 #include<stdio.h>
 #include<stdlib.h>
