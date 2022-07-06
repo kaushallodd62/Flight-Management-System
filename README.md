@@ -4,4 +4,5 @@ It is implemented using:
 * Array of Structures
 * Linked List of Structures. (SLL)
 * B-Trees
+
 It has many methods and operation that can be done on the database such as insert, delete, sort, flights with shortest stay time, update flight status, etc.
